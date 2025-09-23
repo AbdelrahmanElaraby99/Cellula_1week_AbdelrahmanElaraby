@@ -1,4 +1,4 @@
-# Cellula 1 Week Project
+# Cellula Week 1 Project
 
 This repository contains the deliverables for the **Cellula Week 1 Project**, structured into three main tasks: LSTM training, BERT family and fine-tuning short research, and a bonus fine-tuning experiment.
 
