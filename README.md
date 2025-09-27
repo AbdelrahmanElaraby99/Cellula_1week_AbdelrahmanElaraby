@@ -7,7 +7,7 @@ This repository contains the deliverables for the **Cellula Week 1 Project**, st
 ## 📂 Project Structure
 
 ```
-Cellula_1week_AbdelrahmanElaraby
+Cellula_week1_AbdelrahmanElaraby
 ├───BERT family
 │       BERT_Family (Short Research Article).pdf
 │       LoRA_and_QLoRA (Short Research Article).pdf
